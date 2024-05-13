@@ -148,7 +148,7 @@ void controlSpeed()
 
   stopMotors();
 }
-
+//wurde aktualisiert
 void controlBuzzer(DistanceLevel_t distanceLevel)
  {
   if(distanceLevel == noDanger)
